@@ -17,7 +17,7 @@ We are looking forward for other participants to share their papers and codes. I
 ## Graph SSMVC
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
-|Incrementalmulti-viewspectralclustering (IMSC)|2019|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705119301030)|[matlab](https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering/tree/main/code/IMSC)|
+|Incremental multi-view spectral clustering (IMSC)|2019|KBS|[link](https://www.sciencedirect.com/science/article/pii/S0950705119301030)|[matlab](https://github.com/wanxinhang/Awesome-Continual-Multi-view-clustering/tree/main/code/IMSC)|
 ---
 
 ## Multi-view-clustering-links:
