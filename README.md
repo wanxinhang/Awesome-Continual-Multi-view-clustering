@@ -18,6 +18,7 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 ## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
+|Live and Learn: Continual Action Clustering with Incremental Views (CAC)|2024|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/29561)|-|
 |Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|arVix|[link](https://arxiv.org/abs/2309.15135)|-|
 |Fast Continual Multi-View Clustering With Incomplete Views (FCMVC-IV)|2024|TIP|[link](https://ieeexplore.ieee.org/document/10506102)|[matlab](https://github.com/wanxinhang/TIP-2024-FCMVC-IV)|
 |Continual Multi-view Clustering (CMVC)|2022|ACM MM|[link](https://dl.acm.org/doi/abs/10.1145/3503161.3547864)|[matlab](https://github.com/wanxinhang/ACMMM2022-CMVC)|
@@ -75,6 +76,7 @@ series = {MM '22}
       primaryClass={cs.LG}
 }
 
+@article{Yan_Gan_Mao_Ye_Yu_2024, title={Live and Learn: Continual Action Clustering with Incremental Views}, volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/29561}, DOI={10.1609/aaai.v38i15.29561},  number={15}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Yan, Xiaoqiang and Gan, Yingtao and Mao, Yiqiao and Ye, Yangdong and Yu, Hui}, year={2024}, month={Mar.}, pages={16264-16271} }
 @article{YIN2021260,
 title = {Incremental multi-view spectral clustering with sparse and connected graph learning},
 journal = {Neural Networks},
