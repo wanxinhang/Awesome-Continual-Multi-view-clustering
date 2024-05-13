@@ -37,6 +37,70 @@ https://github.com/liangnaiyao/multiview_learning
 
 https://github.com/Jeaninezpp/Incomplete-multi-view-clustering#incomplete-multi-view-clustering.
 
+## Citations:
+@ARTICLE{10506102,
+  author={Wan, Xinhang and Xiao, Bin and Liu, Xinwang and Liu, Jiyuan and Liang, Weixuan and Zhu, En},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Fast Continual Multi-View Clustering With Incomplete Views}, 
+  year={2024},
+  volume={33},
+  number={},
+  pages={2995-3008},
+  keywords={Complexity theory;Kernel;Task analysis;Clustering algorithms;Real-time systems;Privacy;Fuses;Multi-view learning;clustering;continual learning},
+  doi={10.1109/TIP.2024.3388974}}
+
+@inproceedings{10.1145/3503161.3547864,
+author = {Wan, Xinhang and Liu, Jiyuan and Liang, Weixuan and Liu, Xinwang and Wen, Yi and Zhu, En},
+title = {Continual Multi-View Clustering},
+year = {2022},
+isbn = {9781450392037},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3503161.3547864},
+doi = {10.1145/3503161.3547864},
+booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+pages = {3676–3684},
+numpages = {9},
+keywords = {multi-view clustering, consensus partition matrix, late fusion, continual learning},
+location = {Lisboa, Portugal},
+series = {MM '22}
+}
+
+@misc{wan2024contrastive,
+      title={Contrastive Continual Multi-view Clustering with Filtered Structural Fusion}, 
+      author={Xinhang Wan and Jiyuan Liu and Hao Yu and Ao Li and Xinwang Liu and Ke Liang and Zhibin Dong and En Zhu},
+      year={2024},
+      eprint={2309.15135},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+
+@article{YIN2021260,
+title = {Incremental multi-view spectral clustering with sparse and connected graph learning},
+journal = {Neural Networks},
+volume = {144},
+pages = {260-270},
+year = {2021},
+issn = {0893-6080},
+doi = {https://doi-org-s.libyc.nudt.edu.cn:443/10.1016/j.neunet.2021.08.031},
+url = {https://www-sciencedirect-com-s.libyc.nudt.edu.cn:443/science/article/pii/S0893608021003440},
+author = {Hongwei Yin and Wenjun Hu and Zhao Zhang and Jungang Lou and Minmin Miao},
+keywords = {Multi-view clustering, Incremental clustering, Sparse graph learning, Connected graph learning, Spectral embedding},
+}
+
+@article{ZHOU201973,
+title = {Incremental multi-view spectral clustering},
+journal = {Knowledge-Based Systems},
+volume = {174},
+pages = {73-86},
+year = {2019},
+issn = {0950-7051},
+doi = {https://doi-org-s.libyc.nudt.edu.cn:443/10.1016/j.knosys.2019.02.036},
+url = {https://www-sciencedirect-com-s.libyc.nudt.edu.cn:443/science/article/pii/S0950705119301030},
+author = {Peng Zhou and Yi-Dong Shen and Liang Du and Fan Ye and Xuejun Li},
+keywords = {Multi-view clustering, Spectral clustering, Incremental learning},
+}
+
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
 - We are looking forward to any comments or discussions or contributions on this topic. :)
