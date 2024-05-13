@@ -12,7 +12,10 @@ Collections for **Awesome-Continual-Multi-view-clustering** methods (papers and 
 We are looking forward for other participants to share their papers and codes. If interested, please contact <wanxinhang@nudt.edu.cn>.
 
 **Update at May 2024.**
+## What's Continual Multi-view clustering?
+Existing multi-view overlooks scenarios where data views are collected sequentially, i.e., real-time data. Due to privacy issues or memory burden, previous views are not available with time in these situations. Continual Multi-view clustering aims to conduct the clustering task in this setting.
 
+## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
 |Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|arVix|[link](https://arxiv.org/abs/2309.15135)|-|
