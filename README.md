@@ -79,14 +79,6 @@ location = {Lisboa, Portugal},
 series = {MM '22}
 }
 
-@misc{wan2024contrastive,
-      title={Contrastive Continual Multi-view Clustering with Filtered Structural Fusion}, 
-      author={Xinhang Wan and Jiyuan Liu and Hao Yu and Ao Li and Xinwang Liu and Ke Liang and Zhibin Dong and En Zhu},
-      year={2024},
-      eprint={2309.15135},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
 
 @article{Yan_Gan_Mao_Ye_Yu_2024, title={Live and Learn: Continual Action Clustering with Incremental Views}, volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/29561}, DOI={10.1609/aaai.v38i15.29561},  number={15}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Yan, Xiaoqiang and Gan, Yingtao and Mao, Yiqiao and Ye, Yangdong and Yu, Hui}, year={2024}, month={Mar.}, pages={16264-16271} }
 
