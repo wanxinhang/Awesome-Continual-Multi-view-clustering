@@ -18,8 +18,8 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 ## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
-|Live and Learn: Continual Action Clustering with Incremental Views (CAC)|2024|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/29561)|-|
 |Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|TNNLS|[link](https://ieeexplore.ieee.org/document/10777843)|[matlab](https://github.com/wanxinhang/CCMVC-FSF)|
+|Live and Learn: Continual Action Clustering with Incremental Views (CAC)|2024|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/29561)|-|
 |Fast Continual Multi-View Clustering With Incomplete Views (FCMVC-IV)|2024|TIP|[link](https://ieeexplore.ieee.org/document/10506102)|[matlab](https://github.com/wanxinhang/TIP-2024-FCMVC-IV)|
 |Continual Multi-view Clustering (CMVC)|2022|ACM MM|[link](https://dl.acm.org/doi/abs/10.1145/3503161.3547864)|[matlab](https://github.com/wanxinhang/ACMMM2022-CMVC)|
 |Incremental multi-view spectral clustering with sparse and connected graph learning (SCGL)|2021|NN|[link](https://www.sciencedirect.com/science/article/pii/S0893608021003440)|[matlab](https://github.com/YHOOW/SCGL)|
@@ -49,6 +49,18 @@ https://github.com/Jeaninezpp/Incomplete-multi-view-clustering#incomplete-multi-
   pages={2995-3008},
   keywords={Complexity theory;Kernel;Task analysis;Clustering algorithms;Real-time systems;Privacy;Fuses;Multi-view learning;clustering;continual learning},
   doi={10.1109/TIP.2024.3388974}}
+
+@ARTICLE{10777843,
+  author={Wan, Xinhang and Liu, Jiyuan and Yu, Hao and Qu, Qian and Li, Ao and Liu, Xinwang and Liang, Ke and Dong, Zhibin and Zhu, En},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Contrastive Continual Multiview Clustering With Filtered Structural Fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Kernel;Information filters;Privacy;Correlation;Contrastive learning;Clustering methods;Technological innovation;Stability plasticity;Real-time systems;Complexity theory;Clustering;continual learning;multiview learning},
+  doi={10.1109/TNNLS.2024.3502455}}
+
 
 @inproceedings{10.1145/3503161.3547864,
 author = {Wan, Xinhang and Liu, Jiyuan and Liang, Weixuan and Liu, Xinwang and Wen, Yi and Zhu, En},
