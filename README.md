@@ -19,7 +19,7 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
 |Live and Learn: Continual Action Clustering with Incremental Views (CAC)|2024|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/29561)|-|
-|Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|arVix|[link](https://arxiv.org/abs/2309.15135)|-|
+|Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|TNNLS|[link](https://ieeexplore.ieee.org/document/10777843)|[matlab](https://github.com/wanxinhang/CCMVC-FSF)|
 |Fast Continual Multi-View Clustering With Incomplete Views (FCMVC-IV)|2024|TIP|[link](https://ieeexplore.ieee.org/document/10506102)|[matlab](https://github.com/wanxinhang/TIP-2024-FCMVC-IV)|
 |Continual Multi-view Clustering (CMVC)|2022|ACM MM|[link](https://dl.acm.org/doi/abs/10.1145/3503161.3547864)|[matlab](https://github.com/wanxinhang/ACMMM2022-CMVC)|
 |Incremental multi-view spectral clustering with sparse and connected graph learning (SCGL)|2021|NN|[link](https://www.sciencedirect.com/science/article/pii/S0893608021003440)|[matlab](https://github.com/YHOOW/SCGL)|
