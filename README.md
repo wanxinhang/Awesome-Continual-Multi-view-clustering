@@ -18,6 +18,7 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 ## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
+|Multi-View Incremental Learning with Structured Hebbian Plasticity for Enhanced Fusion Efficiency (MVIL)|2025|AAAI|[link](https://arxiv.org/abs/2412.12801)|-|
 |Contrastive Continual Multi-view Clustering with Filtered Structural Fusion (CCMVC-FSF)|2024|TNNLS|[link](https://ieeexplore.ieee.org/document/10777843)|[matlab](https://github.com/wanxinhang/CCMVC-FSF)|
 |A Lightweight Anchor-Based Incremental Framework to Multi-view Clustering (LAIMVC)|2024|ACM MM|[link](https://dl.acm.org/doi/10.1145/3664647.3680837)|[matlab](https://github.com/QuQian24/LAIMVC)|
 |Live and Learn: Continual Action Clustering with Incremental Views (CAC)|2024|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/29561)|-|
