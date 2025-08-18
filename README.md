@@ -18,6 +18,7 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 ## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
+|Incremental Nyström-based Multiple Kernel Clustering|2025|AAAI|[link](INMKC)|[matlab](https://github.com/YuFeng23/Incremental-Nystrom-based-Multiple-Kernel-Clustering)|
 |Incremental Multiview Clustering With Continual Information Bottleneck Method|2025|IEEE T SYST MAN CY-S|[link](https://ieeexplore.ieee.org/abstract/document/10705338/)|-|
 |AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering (AdaptCMVC)|2025|CVPR|[link](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_AdaptCMVC_Robust_Adaption_to_Incremental_Views_in_Continual_Multi-view_Clustering_CVPR_2025_paper.html)|[python](https://github.com/Wjing-bjtu/AdaptCMVC)|
 |Multi-View Incremental Learning with Structured Hebbian Plasticity for Enhanced Fusion Efficiency (MVIL)|2025|AAAI|[link](https://arxiv.org/abs/2412.12801)|-|
