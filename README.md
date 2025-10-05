@@ -85,35 +85,6 @@ location = {Lisboa, Portugal},
 series = {MM '22}
 }
 
-
-@article{Yan_Gan_Mao_Ye_Yu_2024, title={Live and Learn: Continual Action Clustering with Incremental Views}, volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/29561}, DOI={10.1609/aaai.v38i15.29561},  number={15}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Yan, Xiaoqiang and Gan, Yingtao and Mao, Yiqiao and Ye, Yangdong and Yu, Hui}, year={2024}, month={Mar.}, pages={16264-16271} }
-
-@article{YIN2021260,
-title = {Incremental multi-view spectral clustering with sparse and connected graph learning},
-journal = {Neural Networks},
-volume = {144},
-pages = {260-270},
-year = {2021},
-issn = {0893-6080},
-doi = {https://doi-org-s.libyc.nudt.edu.cn:443/10.1016/j.neunet.2021.08.031},
-url = {https://www-sciencedirect-com-s.libyc.nudt.edu.cn:443/science/article/pii/S0893608021003440},
-author = {Hongwei Yin and Wenjun Hu and Zhao Zhang and Jungang Lou and Minmin Miao},
-keywords = {Multi-view clustering, Incremental clustering, Sparse graph learning, Connected graph learning, Spectral embedding},
-}
-
-@article{ZHOU201973,
-title = {Incremental multi-view spectral clustering},
-journal = {Knowledge-Based Systems},
-volume = {174},
-pages = {73-86},
-year = {2019},
-issn = {0950-7051},
-doi = {https://doi-org-s.libyc.nudt.edu.cn:443/10.1016/j.knosys.2019.02.036},
-url = {https://www-sciencedirect-com-s.libyc.nudt.edu.cn:443/science/article/pii/S0950705119301030},
-author = {Peng Zhou and Yi-Dong Shen and Liang Du and Fan Ye and Xuejun Li},
-keywords = {Multi-view clustering, Spectral clustering, Incremental learning},
-}
-
 ###### TIPS
 - If you find this repository useful to your research or work, it is really appreciate to star this repository. 
 - We are looking forward to any comments or discussions or contributions on this topic. :)
