@@ -18,6 +18,7 @@ Existing multi-view overlooks scenarios where data views are collected sequentia
 ## Papers
 |Paper|Year|Publish|PDF|Code|
 |  :-----: | :------: | :------: | :------: | :------: |
+|Multi-View Clustering With Incremental Instances and Views (MVC-IIV )|2025|TIP|[link](https://ieeexplore.ieee.org/abstract/document/11062502/)|[matlab](https://github.com/czhangnju/MVC-IIV)|
 |Anchor-guided Sample-and-feature Incremental Alignment Framework for Multi-view Clustering (ASIA-MVC)|2025|TCSVT|[link](https://ieeexplore.ieee.org/abstract/document/11180085)|[matlab](https://github.com/QuQian24/ASIA-MVC)|
 |Incremental Nyström-based Multiple Kernel Clustering (INMKC)|2025|AAAI|[link](https://ojs.aaai.org/index.php/AAAI/article/view/33825)|[matlab](https://github.com/YuFeng23/Incremental-Nystrom-based-Multiple-Kernel-Clustering)|
 |Incremental Multiview Clustering With Continual Information Bottleneck Method|2025|IEEE T SYST MAN CY-S|[link](https://ieeexplore.ieee.org/abstract/document/10705338/)|-|
